@@ -47,26 +47,21 @@ body {
   }
 
 .question{
-
-    display: none;
-    opacity: 0;
-    transition: opacity 0.5s;
-  
-    display: none;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
-    text-align: center;
-
-    background-image: url('background3.jpg'); 
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-
-  color: white; 
+  display: none;
+  opacity: 0;
+  transition: opacity 0.5s;
+  flex-direction: column;
   justify-content: center;
-    margin-top: 10rem;
+  align-items: center;
+  padding: 20px;
+  text-align: center;
+  background-image: url('background3.jpg'); 
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white; 
+  margin-top: 10rem;
+
 
 }
 
